@@ -16,7 +16,7 @@
   "os": [
     "darwin"
   ],
-  "version": "2.1.0",
+  "version": "3.0.0",
   "license": "MIT",
   "author": "Antonio Piazza @antman1p",
   "repository": {
@@ -30,7 +30,7 @@
   "dependencies": {
     "debug": "*",
     "ffi-napi": "3.0.1",
-    "function-class": "^1.0.0",
+    "function-class": "1.1.0",
     "ref-napi": "3.0.1",
     "ref-struct-napi": "1.1.1",
     "setprototypeof": "^1.0.0"
