@@ -18,10 +18,10 @@
   ],
   "version": "2.1.0",
   "license": "MIT",
-  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
+  "author": "Antonio Piazza @antman1p",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/NodObjC.git"
+    "url": "git://github.com/antman1p/NodObjC.git"
   },
   "main": "./lib/index.js",
   "scripts": {
